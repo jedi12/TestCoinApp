@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test Coin App</string>
+
+    <string name="empty_list">Список пуст</string>
+    <string name="labelName">Name:</string>
+    <string name="labelSymbol">Symbol:</string>
+    <string name="labelSlug">Slug:</string>
+</resources>
